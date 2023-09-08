@@ -19,5 +19,7 @@ This repository contains a project about a personal website's design that comes 
 - Implementation of the GitHub Markdown Badge by [Ileriayo](https://github.com/Ileriayo)
 
 ## 🖥️ Preview
-![image](https://github.com/SoLiDinity/responsive-biodata-web/assets/127974449/94eb850d-6697-48fa-8ff9-0fe293304ced)
+![Screenshot (1702)](https://github.com/SoLiDinity/responsive-biodata-web/assets/127974449/6a4d67ab-7020-4f3d-b801-4e88f9dba644)
+![Screenshot (1704)](https://github.com/SoLiDinity/responsive-biodata-web/assets/127974449/7961bdd4-ca93-4edb-a46d-817f0a9439a8)
+
 
